@@ -1,4 +1,5 @@
 import socket
+def TCP_Test()
 
 HOST = 'www.google.com'
 PORT = 80
